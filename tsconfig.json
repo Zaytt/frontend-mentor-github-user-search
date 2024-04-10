@@ -1,0 +1,11 @@
+{
+  "include": ["src/*", "vite.config.*"],
+  "exclude": ["tests/*"],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "composite": true,
+    "target": "esnext",
+    "module": "esnext",
+    "types": ["node", "vite/client"]
+  }
+}
