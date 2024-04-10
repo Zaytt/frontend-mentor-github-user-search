@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/github-user-search-vuevitetailwind-ZA5itU-OgO)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-github-user-search-murex.vercel.app/)
 
 ## My process
 
