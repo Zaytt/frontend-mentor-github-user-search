@@ -36,6 +36,7 @@ function dateToString(date) {
     class="w-[70px] md:w-[117px] h-full flex items-start justify-center rows-span-1 lg:row-span-2"
   >
     <img
+      alt="user profile picture"
       :src="userState.data?.avatar_url || ''"
       class="w-ful h-[70px] md:h-[117px] rounded-[50%]"
       :class="{

@@ -3,14 +3,16 @@ import Devfinder from './components/Devfinder.vue';
 </script>
 
 <template>
-  <div
-    class="bg-zircon dark:bg-dark min-w-screen min-h-screen"
-    :class="isDarkMode && 'dark'"
-  >
-    <div class="flex justify-center pt-36 pb-40">
-      <Devfinder></Devfinder>
+  <main>
+    <div
+      class="bg-zircon dark:bg-dark min-w-screen min-h-screen"
+      :class="isDarkMode && 'dark'"
+    >
+      <div class="flex justify-center pt-36 pb-40">
+        <Devfinder></Devfinder>
+      </div>
     </div>
-  </div>
+  </main>
 </template>
 
 <script>
