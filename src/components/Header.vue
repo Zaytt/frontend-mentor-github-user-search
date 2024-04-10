@@ -3,7 +3,7 @@ import IconMoon from './icons/IconMoon.vue';
 import IconSun from './icons/IconSun.vue';
 </script>
 <template>
-  <div class="flex justify-between lg:w-[730px] md:w-[573px] mb-6">
+  <div class="flex justify-between lg:w-[730px] md:w-[573px] mb-5">
     <h1 class="text-charcoal dark:text-white font-bold text-[26px]">
       devfinder
     </h1>
