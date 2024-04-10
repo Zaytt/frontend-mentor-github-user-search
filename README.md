@@ -47,8 +47,6 @@ Users should be able to:
 
 I used this challenge to dive into Vue and further my experience with Tailwind CSS.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Website - [Ivan Chavez](https://ivanchavez.dev)
